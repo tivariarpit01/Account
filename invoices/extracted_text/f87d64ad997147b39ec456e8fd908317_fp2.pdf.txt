@@ -1,0 +1,172 @@
+Tax Invoice/Bill of Supply
+Sold By: Suri Consumer Private Limited ,
+Ship Address: CF warehouse,Village Dohale,Post Padgha,Opposite to Vaishnodevi Mandir, Taluka Bhiwandi,District Thane-
+421101, Mumbai, MAHARASHTRA, India - 421101, IN-MH
+GSTIN - 27ABDCS9580N1ZH
+PAN - ABDCS9580NFSSAI License No - 13321999000230
+Ship To Bill To
+Antima Tiwari Flat 1404 Vista D lakeshore greens palava, Antima Tiwari Flat 1404 Vista D lakeshore greens palava,
+Munnu, Kalyan, 421204, Maharashtra Munnu, Kalyan, 421204, Maharashtra
+Order: OD329581244109291200 Order Date: 03-11-2023
+Invoice Number: FAJQ9L2400483124 Invoice Date: 03-11-2023
+Payment method: PREPAID Tracking ID:
+Total Items: 3 Tote-Id:
+S. Item HSN Qty MRP Savings Total
+No (Tax%) (Rs) (Rs) Amt(Rs)
+NON FOOD ITEMS
+1 DENVER Hamilton Premium Talc, 300 g 33049120 1 220.00 132.00 88.00
+(18.0)
+2 STAYFREE Advanced All Night XL Wings Sanitary Pad, 28 96190010 1 385.00 62.00 323.00
+Units (0.0)
+3 DENVER Black Code Premium Body Talc, 100 g 33049120 1 85.00 51.00 34.00
+(18.0)
+Summary 3 690.00 245.00 445.00
+You have SAVED Rs. 245.00 on this order. Tota (F l o A o m d o ) unt 0.00
+Total Amount(Non- 445.00
+Food)
+Delivery Charges 0.00
+GRAND 445.00
+TOTAL
+Suri Consumer Private Limited Tax break-up
+Signature GST% T A a m xa o b u l n e t SGST CGST
+0.00 323.00 0.00 0.00
+18.00 103.40 9.30 9.30
+Delivery Charges* 5.40 0.30 0.30
+Grand Total 426.40 9.30 9.30
+*Appropriated product-wise and Rate applicable thereunder.
+Authorized Signatory
+Return Policy: If the item is defective or not as described, you may return it during delivery directly or you may request for
+return within 10 days of delivery for items that are defective or are different from what you ordered. Items must be
+complete (including freebies), free from damages and for items returned for being different from what you ordered, they
+must be unopened as well.
+The goods sold as are intended for end user consumption and not for re-sale.
+Regd. office: Suri Consumer Private Limited , 3rd FLOOR, SURI HOUSE, A-12, G.T.ROAD, BLK-A, PANCHWATI COLONY
+AZADPUR, North West Delhi, NEW DELHI, Delhi - 110033
+Contact Flipkart: 044 - 66904500 || www.flipkart.com/helpcentreTax Invoice/Bill of Supply
+Sold By: Shreyash Retail Private Limited ,
+Ship Address: CF warehouse,Village Dohale,Post Padgha,Opposite to Vaishnodevi Mandir, Taluka Bhiwandi,District Thane-
+421101, Mumbai, MAHARASHTRA, India - 421101, IN-MH
+GSTIN - 27AAXCS0655F1ZY
+FSSAI License No - 13321999000230
+PAN - AAXCS0655F
+CIN - U52399DL2016PTC299716
+Ship To Bill To
+Antima Tiwari Flat 1404 Vista D lakeshore greens palava, Antima Tiwari Flat 1404 Vista D lakeshore greens palava,
+Munnu, Kalyan, 421204, Maharashtra Munnu, Kalyan, 421204, Maharashtra
+Order: OD329581244109291200 Order Date: 03-11-2023
+Invoice Number: FAJDM32401371089 Invoice Date: 03-11-2023
+Payment method: PREPAID Tracking ID:
+Total Items: 19 Tote-Id:
+S. Item HSN Qty MRP Savings Total
+No (Tax%) (Rs) (Rs) Amt(Rs)
+FOOD ITEMS
+1 Maggi 2-Minute Masala , Easy to Make Instant Noodles 19023010 1 168.00 21.00 147.00
+Vegetarian, 840 g (12.0)
+2 Potato 2 kg 07069030 1 109.00 54.00 55.00
+(0.0)
+3 Natureland Organics Moong Dal (Whole), 1 kg 10089010 1 255.00 82.00 173.00
+(5.0)
+4 MADHUR Pure and Hygienic Sugar, 500 g 17011490 1 32.00 31.00 1.00
+(5.0)
+5 Classic Kachi Ghani Mustard Oil Pouch by Flipkart Grocery, 15149920 1 198.00 81.00 117.00
+1 L (5.0)
+6 INDIA GATE Mini Mogra Basmati Rice, 5 kg 10063020 1 350.00 81.00 269.00
+(5.0)
+7 4700BC Popcorn Butter Popcorn, 90 g 20081990 1 30.00 21.00 9.00
+(12.0)
+8 safe harvest Peanut (Whole) (Pesticide Free), 500 g 07133990 1 149.00 65.00 84.00
+(5.0)
+9 Tomato Hybrid 1 kg 07069030 1 59.00 34.00 25.00
+(0.0)
+10 Ladies Finger 250 g 07069030 1 27.00 12.00 15.00
+(0.0)
+11 Milky Mist Paneer, 200 g 04061000ac 1 125.00 56.00 69.00
+(5.0)
+12 Onion 1 kg 07069030 2 137.00 144.00 130.00
+(0.0)
+13 Capsicum Green 500 g 07069030 1 79.00 44.00 35.00
+(0.0)
+14 Amul Pasteurised Salted Butter, 100 g 04051000 1 58.00 0.00 58.00
+(12.0)
+15 Carrot 500 g 07069030 1 51.00 22.00 29.00
+(0.0)
+16 MOTHER DAIRY Cow Ghee 1 L Pouch 04059020 1 685.00 94.00 591.00
+(12.0)
+17 Gowardhan Classic Block Paneer, 200 g 04061000ac 2 105.00 36.00 174.00
+(5.0)
+18 Milky Mist Farm Fresh Plain Curd, 400 g 04032000 3 55.00 66.00 99.00
+(5.0)
+NON FOOD ITEMS
+19 PARK AVENUE Voyage Perfume Body Spray - For Men, 220 33072000 1 390.00 227.00 163.00
+ml (18.0)
+Summary 23 3414.00 1171.00 2243.00
+You have SAVED Rs. 1171.00 on this order. Total Amount(Food) 2080.00
+Total Amount(Non- 163.00
+Food)
+Delivery Charges 0.00
+GRAND TOTAL 2243.00Shreyash Retail Private Limited Tax break-up
+Signature GST% T A a m xa o b u l n e t SGST CGST
+0.00 289.00 0.00 0.00
+12.00 718.74 43.13 43.13
+18.00 138.14 12.43 12.43
+5.00 939.04 23.48 23.48
+Delivery 35.07 0.96 0.96
+Charges*
+Authorized Signatory
+Grand Total 2084.92 79.04 79.04
+*Appropriated product-wise and Rate applicable thereunder.
+Return Policy: If the item is defective or not as described, you may return it during delivery directly or you may request for
+return within 10 days of delivery for items that are defective or are different from what you ordered. Items must be complete
+(including freebies), free from damages and for items returned for being different from what you ordered, they must be
+unopened as well.
+The goods sold as are intended for end user consumption and not for re-sale.
+Regd. office: Shreyash Retail Private Limited , Plot No 20, 1st Floor, Suite No.1 , Okhla Industrial Estate Phase 3, DELHI, DELHI
+- 110020
+Contact Flipkart: 044 - 66904500 || www.flipkart.com/helpcentreTax Invoice/Bill of Supply
+Sold By: Shreyash Retail Private Limited ,
+Ship Address: CF warehouse,Village Dohale,Post Padgha,Opposite to Vaishnodevi Mandir, Taluka Bhiwandi,District Thane-
+421101, Mumbai, MAHARASHTRA, India - 421101, IN-MH
+GSTIN - 27AAXCS0655F1ZY
+FSSAI License No - 13321999000230
+PAN - AAXCS0655F
+Ship To Bill To
+Antima Tiwari Flat 1404 Vista D lakeshore greens palava, Antima Tiwari Flat 1404 Vista D lakeshore greens palava,
+Munnu, Kalyan, 421204, Maharashtra Munnu, Kalyan, 421204, Maharashtra
+Order: OD329581244109291200 Order Date: 03-11-2023
+Invoice Number: FAJ7BQ2400385574 Invoice Date: 03-11-2023
+Payment method: PREPAID Tracking ID:
+Total Items: 4 Tote-Id:
+S.No Item HSN Qty MRP Savings Total
+(Tax%) (Rs) (Rs) Amt(Rs)
+FOOD ITEMS
+1 Classic Toor/Arhar Dal (Split) by Flipkart Grocery, 1 kg 07136000 1 250.00 64.00 186.00
+(5.0)
+2 Classic Kabuli Chana (Whole) by Flipkart Grocery, 1 kg 07132000 1 200.00 19.00 181.00
+(5.0)
+3 ProV Mini Almonds Roasted and Salted, 18 g 08021200 1 30.00 2.00 28.00
+(12.0)
+4 Classic Chana Dal (Split) by Flipkart Grocery, 1 kg 07132000 1 130.00 45.00 85.00
+(5.0)
+Summary 4 610.00 130.00 480.00
+You have SAVED Rs. 130.00 on this order. Tota (F l o A o m d o ) unt 480.00
+Total Amount(Non- 0.00
+Food)
+Delivery Charges 0.00
+GRAND 480.00
+TOTAL
+Shreyash Retail Private Limited Tax break-up
+Signature GST% T A a m xa o b u l n e t SGST CGST
+12.00 25.00 1.50 1.50
+5.00 430.48 10.76 10.76
+Delivery Charges* 6.54 0.23 0.23
+Grand Total 455.48 12.26 12.26
+*Appropriated product-wise and Rate applicable thereunder.
+Authorized Signatory
+Return Policy: If the item is defective or not as described, you may return it during delivery directly or you may request for
+return within 10 days of delivery for items that are defective or are different from what you ordered. Items must be
+complete (including freebies), free from damages and for items returned for being different from what you ordered, they
+must be unopened as well.
+The goods sold as are intended for end user consumption and not for re-sale.
+Regd. office: Shreyash Retail Private Limited , SHREYASH RETAIL PRIVATE LIMITED,No.56, The Executive Zone, Ground
+Floor, Ground Floor, Shakthi Towers-1, 766, Anna Salai, Chennai - 600062, THIRUVALLUR, TAMIL NADU - 600062
+Contact Flipkart: 044 - 66904500 || www.flipkart.com/helpcentre
