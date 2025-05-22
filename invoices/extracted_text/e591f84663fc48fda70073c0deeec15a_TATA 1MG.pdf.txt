@@ -1,0 +1,74 @@
+Invoice no.:
+Tax Invoice/Bill of Supply/Cash Memo
+02069N2301574997
+(Original for Recipient)
+Date : 2023-10-23
+Order ID :
+PO29523597131124
+For Internal Purpose
+Sold By Sold To
+TATA 1MG Healthcare Solutions Private Limited Patient Name: akash srivastava
+Address: 1404 VISTA D LAKESHORE GREEN
+(formerly known as 1mg Healthcare Solutions Private Limited
+PALAVA PHASE 2 MUMBAI, Thane, 421204,
+and Delhi Mediart Private Limited)
+IN
+DL Number: 20:MH-TZ7-476886,20B:MH-
+Place of supply: Maharashtra
+TZ7-476888,20C:MH-TZ7-476890,20D:MH-TZ7-476891,21:MH-
+Contact: 7844851266
+TZ7-476887,21B:MH-TZ7-476889
+FSSAI License No: 11522016000225
+Doctor name & address:
+GST: 27AAFCD7691C1ZJ
+CIN: U24290DL2016PTC302634
+Registered Address: Level 3, Vasant Square Mall, Pocket V,
+Sector B, Vasant Kunj, New Delhi - 110070
+Premise Address: Plot No. D-141, 3Rd Floor,T.T.C. Industrial
+Area, M.I.D.C., Village Shiravane, Navi Mumbai, Tal : NERUL
+( THANE-ZONE7 ), Mumbai, Maharashtra, 400706, India
+SR. PRODUCT NAME Mfr. Name BATCH EXP. QTY UOM Pack MRP (₹) DISC TAXABLE HSN GST GST TOTAL
+NO. DATE (Unit) Size AMT. (₹) AMT. (₹) RATE AMT. AMT. (₹)
+(%) (₹)
+1 Dr Willmar Dr Willmar 066634 05/28 1 ml 30 100.0 12.00 83.81 300490 5 4.19 88
+Schwabe India Schwabe 92
+Rhus India Pvt Ltd
+Toxicodendron
+Dilution 30 CH
+2 SBL Belladonna SBL Pvt Ltd UI2067 07/28 1 ml 30 100.0 12.00 83.81 300490 5 4.19 88
+Dilution 30 CH 72
+3 SBL Bryonia Alba SBL Pvt Ltd UI2-39 07/28 1 ml 30 100.0 12.00 83.81 3004901 5 4.19 88
+Dilution 30 CH 950 1
+4 SBL Arnica SBL Pvt Ltd UI2087 07/28 1 ml 30 100.0 12.00 83.81 300490 5 4.19 88
+Montana Dilution 77
+30 CH
+5 SBL Sulphur SBL Pvt Ltd UI25135 08/28 1 ml 30 100.0 12.00 83.81 300490 5 4.19 88
+Dilution 30 CH 7
+6 SBL Thuja SBL Pvt Ltd UI16789 05/28 1 ml 30 100.0 10.00 85.71 3004901 5 4.29 90
+Occidentalis 1 1
+Dilution 30 CH
+7 SBL Kali SBL Pvt Ltd KI-003 07/28 1 ml 30 100.0 12.00 83.81 300490 5 4.19 88
+Bichromicum 423
+Dilution 30 CH
+8 Shipping Fee 1 OTH 0.00 23.97 996812 5 1.2 25.17
+9 Green Packaging 1 OTH 0.00 2.48 998549 5 0.12 2.6
+ChargeGST% Taxable CGST (₹) SGST (₹) IGST (₹) TOTAL QUANTITY: 7
+Amt (₹)
+GROSS AMOUNT: ₹700.00
+0 0 0 0 0
+SHIPPING & VAS ₹27.77
+5 615.02 15.4 15.4 0 CHARGES:
+12 0 0 0 0 DISCOUNT AMOUNT: ₹82.00
+18 0 0 0 0 BILL AMOUNT: ₹645.77
+28 0 0 0 0 ROUND OFF: ₹0.23
+PAYABLE AMOUNT: ₹646.00
+For Compliance Purpose
+Amount in Words: Rupees six hundred and forty-six only E.&.O.E.
+All disputes related to this order are subject to the jurisdiction of courts at For: TATA 1MG Healthcare Solutions Private Limited
+Mumbai, Maharashtra
+Computer Generated Invoice.
+____ ____ ____ ____
+Pharmacist Signature
+For Support Contact: care@1mg.com
+Transit mode: By Road/Air
+Bringing care to health

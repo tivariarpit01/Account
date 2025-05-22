@@ -32,23 +32,55 @@ async def upload_invoice(file: UploadFile = File(...), db: Session = Depends(get
     # Parse text into structured data
     data = parse_invoice_data(text)
 
-    # Clean up after parsing
+    # Clean up temp file
     os.remove(temp_file_path)
 
-    # Extract and convert invoice date string to date object
-    date_str = data["invoice_meta"].get("invoice_date", "")
+    # Basic checks
+    invoice_meta = data.get("invoice_meta", {}) if data else {}
+    invoice_number = invoice_meta.get("invoice_number")
+
+    # If invoice number missing, return warning immediately
+    if not invoice_number:
+        return {
+            "warning": "Invoice data is not in the appropriate format. Please upload a valid invoice."
+        }
+
+    # Check if invoice already exists in DB
+    existing_invoice = db.query(Invoice).filter(Invoice.invoice_number == invoice_number).first()
+    if existing_invoice:
+        return {
+            "message": "Invoice already exists.",
+            "invoice_number": invoice_number,
+            "existing_invoice_id": existing_invoice.id
+        }
+
+    # Validate other required fields for format
+    if (
+        not data or
+        not invoice_meta or
+        not invoice_meta.get("invoice_date") or
+        not invoice_meta.get("total_amount") or
+        not data.get("items")
+    ):
+        return {
+            "warning": "Invoice data is not in the appropriate format. Please upload a valid invoice."
+        }
+
+    # Parse invoice date
+    date_str = invoice_meta.get("invoice_date", "")
     try:
-        # Adjust date format to your actual input, example: "dd-mm-yyyy"
         invoice_date = datetime.strptime(date_str, "%d-%m-%Y").date()
     except Exception:
-        invoice_date = None  # Or datetime.today().date()
+        invoice_date = datetime.today().date()
 
-    # Create Invoice DB object with proper date object
+    # Create new invoice record
     invoice = Invoice(
-        invoice_number=data["invoice_meta"].get("invoice_number", "UNKNOWN"),
+        invoice_number=invoice_number,
         date=invoice_date,
-        gst_number=data["invoice_meta"].get("gst_number", ""),
-        party_name=data["invoice_meta"].get("party_name", "Unknown"),
+        gst_number=invoice_meta.get("gst_number", ""),
+        party_name=invoice_meta.get("party_name", "Unknown"),
+        total_amount=float(invoice_meta.get("total_amount", 0)),
+        gst=float(invoice_meta.get("gst", 0))
     )
 
     db.add(invoice)
@@ -71,4 +103,7 @@ async def upload_invoice(file: UploadFile = File(...), db: Session = Depends(get
 
     db.commit()
 
-    return {"message": "Invoice data saved successfully", "invoice_id": invoice.id}
+    return {
+        "message": "Invoice data saved successfully",
+        "invoice_id": invoice.id
+    }

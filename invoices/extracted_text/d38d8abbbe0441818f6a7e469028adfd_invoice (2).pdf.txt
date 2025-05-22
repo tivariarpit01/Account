@@ -1,0 +1,45 @@
+Tax Invoice/Bill of Supply/Cash Memo
+(Original for Recipient)
+Sold By : Billing Address :
+Appario Retail Private Ltd Nataline
+* Building No. 5, BGR Warehousing Complex, Lifeline Multispeciality Hospital private hospital,
+Near Shiv Sagar Hotel, Village Vahuli, Bhiwandi, Sainath Rd, Near Bata Showroom, Daruwala
+Thane Compound
+BHIWANDI, MAHARASHTRA, 421302 Mumbai, MAHARASHTRA, 400064
+IN IN
+State/UT Code: 27
+PAN No: AALCA0171E
+GST Registration No: 27AALCA0171E1ZZ Shipping Address :
+Nataline
+Nataline
+Lifeline Multispeciality Hospital private hospital,
+Sainath Rd, Near Bata Showroom, Daruwala
+Compound
+Mumbai, MAHARASHTRA, 400064
+IN
+State/UT Code: 27
+Place of supply: MAHARASHTRA
+Place of delivery: MAHARASHTRA
+Order Number: 171-9748116-9992327 Invoice Number : BOM7-2196119
+Order Date: 09.11.2023 Invoice Details : MH-BOM7-1034-2324
+Invoice Date : 09.11.2023
+Sl. Unit Net Tax Tax Tax Total
+Description Qty
+No Price AmountRateType AmountAmount
+1 AirCase Tizum Usb To Lightning 1.2M Charging Cable Cord, Data Sync
+And Charging Cable For Apple Iphones, Ipad Tablet, Air Pods, Black | ₹83.90 1 ₹83.90 9% CGST ₹7.55 ₹99.00
+B0BJZKPKKV ( B0BJZKPKKV )
+HSN:85444299
+9% SGST ₹7.55
+TOTAL: ₹15.10 ₹99.00
+Amount in Words:
+Ninety-nine only
+For Appario Retail Private Ltd:
+Authorized Signatory
+Whether tax is payable under reverse charge - No
+Payment Transaction ID: Date & Time: 09/11/2023, 15:39:24 Invoice Value: Mode of Payment:
+i93r1FkhXe2wsedkGLWb53qhp0dLpi1ICMF hrs 99.00 UPI
+*ASSPL-Amazon Seller Services Pvt. Ltd., ARIPL-Amazon Retail India Pvt. Ltd. (only where Amazon Retail India Pvt. Ltd. fulfillment center is co-located)
+Customers desirous of availing input GST credit are requested to create a Business account and purchase on Amazon.in/business from Business eligible offers
+Please note that this invoice is not a demand for payment
+Page 1 of 1
